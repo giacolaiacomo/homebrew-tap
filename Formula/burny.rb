@@ -2,7 +2,7 @@ class Burny < Formula
   desc "Menu bar app showing your Claude Code and Codex plan limits"
   homepage "https://github.com/giacolaiacomo/burny"
   url "https://github.com/giacolaiacomo/burny/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "REPLACE_WITH_SHA256"
+  sha256 "e97d45c1755260590732b6b27c98894e7aa8a8cfb720ba3573e4cde2a8466e90"
   license "MIT"
 
   depends_on :macos
