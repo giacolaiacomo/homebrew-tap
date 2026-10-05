@@ -2,7 +2,7 @@ class Glancy < Formula
   desc "Notch app for macOS: Claude Code agents, calendar, media, clipboard and windows"
   homepage "https://github.com/giacolaiacomo/glancy"
   url "https://github.com/giacolaiacomo/glancy/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8947f89e0bab1abe14c201b40573478bcabda18f5635d0157f5c56a26938c304"
+  sha256 "3426d394014389d24b46eadea5ee3dc4afe7fd0526c8b6e48e64e2409b2dc27b"
   license "MIT"
 
   depends_on "cmake" => :build
