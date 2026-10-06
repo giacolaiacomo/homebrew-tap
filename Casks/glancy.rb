@@ -1,6 +1,6 @@
 cask "glancy" do
-  version "0.3.0"
-  sha256 "fc66cbcc25626fa42f6cb77c50a1ed95e8a41422f02d0659e08dd62c630b463c"
+  version "0.3.1"
+  sha256 "0c6920668dd7bd2dc8c5e809ada38964d6e3d7c9dceb60ce8bd1cfeb6f2cadc9"
 
   url "https://github.com/giacolaiacomo/glancy/releases/download/v#{version}/Glancy-#{version}.dmg"
   name "Glancy"
