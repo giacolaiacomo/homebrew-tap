@@ -6,6 +6,7 @@ Homebrew formulae and casks by [@giacolaiacomo](https://github.com/giacolaiacomo
 brew install giacolaiacomo/tap/burny
 brew services start burny
 
+brew trust giacolaiacomo/tap          # once, for the glancy cask
 brew install --cask giacolaiacomo/tap/glancy
 ```
 
